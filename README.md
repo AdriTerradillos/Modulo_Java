@@ -18,7 +18,7 @@
 
 ## 🧰 Java Básico (`00_basico/`)
 
-###🔹Conceptos Clave
+##🔹Conceptos Clave
 
 - Tipos de datos primitivos: `int`, `double`, `char`, `boolean`
 - Estructuras de control: `if`, `else`, `switch`, bucles `for`, `while`, `do-while`
