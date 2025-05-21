@@ -1,6 +1,5 @@
 # 🧠 Módulo Java — Repaso Personal
 
-
 ---
 
 ## 📁 Estructura del Repositorio
@@ -40,7 +39,7 @@ public class HolaMundo {
 🖼️ Infografía de Sintaxis Básica
 
 🧱 Programación Orientada a Objetos (01_POO/)
-🔹 Conceptos Clave
+###🔹 Conceptos Clave
 
    - Clases y objetos: definición y uso
 
@@ -75,10 +74,11 @@ public class Perro extends Animal {
 ```
 
 ---
-🖼️ Diagrama de Clases
 
-🧪 Pruebas Unitarias con JUnit 5 (06_JUnit5/)
-🔹 Conceptos Clave
+# 🖼️ Diagrama de Clases
+
+## 🧪 Pruebas Unitarias con JUnit 5 (06_JUnit5/)
+### 🔹 Conceptos Clave
 
    - Anotaciones: @Test, @BeforeEach, @AfterEach
 
@@ -103,8 +103,8 @@ public class CalculadoraTest {
 
 ```
 
-🧵 Programación Concurrente (07_Hilos/)
-🔹 Conceptos Clave
+## 🧵 Programación Concurrente (07_Hilos/)
+###🔹 Conceptos Clave
 
   - Hilos: clase Thread, interfaz Runnable
 
@@ -137,8 +137,8 @@ public class Principal {
 
 ---
 
-🌐 Comunicación en Red con Sockets (08_Shocket/)
-🔹 Conceptos Clave
+## 🌐 Comunicación en Red con Sockets (08_Shocket/)
+###🔹 Conceptos Clave
 
    - Sockets : cliente-servidor
 
@@ -166,7 +166,7 @@ public class Cliente {
 
 ---
 
-📚 Recursos Recomendados
+## 📚 Recursos Recomendados
 
 Para profundizar en estos temas, recomiendo estos libros:
 
