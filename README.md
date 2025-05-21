@@ -18,7 +18,7 @@
 
 ## 🧰 Java Básico (`00_basico/`)
 
-### 🔹 Conceptos Clave
+###🔹Conceptos Clave
 
 - Tipos de datos primitivos: `int`, `double`, `char`, `boolean`
 - Estructuras de control: `if`, `else`, `switch`, bucles `for`, `while`, `do-while`
@@ -39,7 +39,7 @@ public class HolaMundo {
 🖼️ Infografía de Sintaxis Básica
 
 🧱 Programación Orientada a Objetos (01_POO/)
-###🔹 Conceptos Clave
+###🔹Conceptos Clave
 
    - Clases y objetos: definición y uso
 
@@ -78,7 +78,7 @@ public class Perro extends Animal {
 # 🖼️ Diagrama de Clases
 
 ## 🧪 Pruebas Unitarias con JUnit 5 (06_JUnit5/)
-### 🔹 Conceptos Clave
+###🔹Conceptos Clave
 
    - Anotaciones: @Test, @BeforeEach, @AfterEach
 
@@ -104,7 +104,7 @@ public class CalculadoraTest {
 ```
 
 ## 🧵 Programación Concurrente (07_Hilos/)
-###🔹 Conceptos Clave
+###🔹Conceptos Clave
 
   - Hilos: clase Thread, interfaz Runnable
 
@@ -138,7 +138,7 @@ public class Principal {
 ---
 
 ## 🌐 Comunicación en Red con Sockets (08_Shocket/)
-###🔹 Conceptos Clave
+###🔹Conceptos Clave
 
    - Sockets : cliente-servidor
 
